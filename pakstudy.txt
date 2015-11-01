@@ -1,0 +1,9 @@
+paperName pakstudy.txt paperID 1 
+q1 1
+(a)1
+(b)2
+(c)3
+q22
+(a)!
+(b)@
+(c)#

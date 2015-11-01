@@ -1,0 +1,14 @@
+paperName math.txt paperID math102 
+1.1+2=
+(a)2
+(b)3
+(c)4
+2.3-4
+(a)-1
+(b)2
+(c)3
+3.7/0
+(a)excption
+(b)0
+(c)7
+paperName math.txt paperID 1 

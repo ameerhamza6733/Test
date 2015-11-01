@@ -1,0 +1,6 @@
+hamza6    hamza12     ameer     hamza      Male
+ali1   tre    ali       khan       Male    sargodha
+ali   123    ali       a       Male    lahoe
+bilal   bilal    muhammad       bilal       Male    fsd
+nabeel   nabeel    nabeel       nabeel       Male    lahore
+abbas   abbas    muhammad       abbas       Male    shorkot

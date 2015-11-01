@@ -1,0 +1,17 @@
+paperName java paperID javaSE203
+ 
+1.An array holds:
+
+(a)Similar values of same data type
+(b)Different values of same data type
+(c)Same values of different data types
+
+2.Choose the appropriate data type for this value: 1
+(a)Int
+(b)Double
+(c)String
+
+3.which of the following is not a Java keyword?
+(a)main
+(b)try
+(c)string
